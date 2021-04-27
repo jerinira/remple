@@ -30,8 +30,8 @@ CGPA: **3.59** (out of **4.00**)
 *Passed Fundamental IT Engineer (ITEE FE) Exam (Morning Exam).
 * Coursera Certification : Crash Course on Python; Front-End Web UI Frameworks and Tools: Bootstrap 4.
 * Programming Hero certification: Complete Web Development Course.
-* 3<sup>rd</sup> B-JET Japanese Language Course(Online).
-* Japanese Computerized Adaptive Test(J-CAT) Score: N5 Level
+* 3<sup>rd</sup> position at B-JET Japanese Language Course(Online).
+* Japanese Computerized Adaptive Test(J-CAT): N5 Level
 
 <br />
 
