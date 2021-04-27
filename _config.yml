@@ -1,16 +1,16 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
-baseurl: "/remple/"
+title: Ishrat Jerin Era
+description: CSE Graduate.
+baseurl: "/ishrat/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
-medium: "https://tahanima.medium.com/"
+email: "jerinira177@gmail.com"
+linkedin: "https://www.linkedin.com/in/ishrat-jerin-era-4a6114169/"
+github: "https://github.com/jerinira/"
+website: "https://jerinira.github.io/"
+medium: "https://medium.com/@ijira177"
 
 markdown: kramdown
 theme: minima
