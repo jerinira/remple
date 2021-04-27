@@ -7,79 +7,49 @@ title: Resume
 ## EXPERIENCE
 ---
 
-### Therap (BD) Ltd.  
-***Software Engineer, QA (Oct 2019 - Present)*** &middot;	***Full-time***   
-
-Additional Responsibilities:
-* Find scopes of test automation
-* Prepare test automation scripts using Selenium WebDriver (Java)
-* Guide new QA members in the team
-
-### Therap (BD) Ltd.
-***Associate Software Engineer, QA (Sep 2018 – Sep 2019)*** &middot;	***Full-time*** 
-* Perform exploratory testing and, document and report bugs for each assigned new
-features/improvement of existing features/bug fixes targeting a release
-* Carry out regression testing prior to each release
-* Document functionalities of new and existing modules of my team
-* Collaborate with Software Developers to work on new features, improvement of existing features and bug fixes
-* Collaborate with Database Engineers to work on custom reports
-* Collaborate with Training & Content Specialists to work on release notes
-
-### HackerRank  
-***Challenge Creator (Sep 2018 – Sep 2019)*** &middot;	***Remote***
-* Created challenges for the contests: *Women's CodeSprint 3*, *Women's CodeSprint 4*, *Women's CodeSprint 5* and *RookieRank 4 in HackerRank for Developers*
-* Created challenges for technical recruiting in HackerRank for Work
-
-### Sourcetop, Inc  
-***Jr. Software Engineer (Feb 2018 – Aug 2018)*** &middot;	***Full-time***
-* Worked as a Backend Developer
-* Developed Sourcetop's website using Drupal 8
-* Worked on data migration tasks for an online educational platform project built using Moodle LMS
-
-### BRAC University     
-***Undergraduate Teaching Assistant (Jun 2015 – Aug 2016)*** &middot;	***Part-time***  
-* Appointed for the course, Programming Language II (CSE 111)
-* Helped students during tutoring time to understand concepts of Object-Oriented Language (Java)
-* Graded quiz papers  
+### Habro System Ltd.  
+***IT Intern (August 2019 - December 2019)*** &middot;   
+* Front-end Development
+* UI Design
+* Data Manipulation, Data Collection and codes of practice
 
 <br />
 
 ---
 ## EDUCATION
 ---
-### BRAC University  
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)*  
-CGPA: **3.71** (out of **4.00**) 
+### Southeast University  
+*Bachelor of Science in Computer Science and Engineering (Jan 2015 - Aug 2019)*  
+CGPA: **3.59** (out of **4.00**) 
 
 <br />
 
 ---
 ## HONORS & ACHIEVEMENTS
 ---
-* Open Source Project Maintainer at [LightOJ](https://github.com/lightoj-dev/problem-tutorials)
-* One of the local winners of [Open Source Immersion 2020](https://www.facebook.com/groups/DevCDhaka/permalink/2035223959941407), Facebook Developer Circle: Dhaka
-* One of the 1,000 eligible participants to receive a limited edition swag giveaway from Facebook for Developers as part of [Open Source Immersion](https://developers.facebook.com/developercircles/open-source-immersion/)
-* Champion, 1<sup>st</sup> position in Dhaka division, and 1<sup>st</sup> solver of problem D (Team - Bracu_Codefairies) at [NSU Inter University Girl's Programming Competition 2018](https://toph.co/c/nsu-iugpc-2018/standings)
-* 23<sup>rd</sup> position (Team - BRACU StrawHats) at [The 2016 ACM-ICPC Asia Dhaka Regional Contest](https://icpc.global/regionals/finder/dhaka-2016/standings)
-* Recipient of Merit Based Scholarship at BRAC University
-* Recipient of [Special Recognition Award](https://drive.google.com/file/d/1uwpreJ1ekZWLFdA4lARyEnJOQTP_q6Rv/view) from Vice Chancellor, BRAC University
+*Passed Fundamental IT Engineer (ITEE FE) Exam (Morning Exam).
+* Coursera Certification : Crash Course on Python; Front-End Web UI Frameworks and Tools: Bootstrap 4.
+* Programming Hero certification: Complete Web Development Course.
+* 3<sup>rd</sup> B-JET Japanese Language Course(Online).
+* Japanese Computerized Adaptive Test(J-CAT) Score: N5 Level
 
 <br />
 
 ---
 ## PROJECT
 ---
-* **[Test Automation Boilerplate](https://github.com/Tahanima/test-automation-boilerplate):** Ready to use UI Test Automation Architecture  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
-* **[Saucedemo Test Automation](https://github.com/Tahanima/saucedemo-test-automation):** UI test automation project of [this](https://www.saucedemo.com) site  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, Git
-* **[Restful-Booker API Test Automation](https://github.com/Tahanima/restful-booker-api-test-automation):** API test automation project against [this](https://restful-booker.herokuapp.com) api  
-**Tools** &#124; **Technologies:** Java, REST Assured, TestNG, Git  
+* **[Doctor’s Portal](https://github.com/jerinira/doctors-portal):** WebApp for patient and doctor where anybody can make an appointment for their selected time, date. Doctors can find patient’s details and total appointment list.  
+**Tools** &#124; **Technologies:** HTML, CSS, ReactJS, MongoDB.
+* **[Ema-John Shop](http://github.com/jerinira/ema-john-simple):** Like an E-commerce Website where anybody can view products, can make order to their address with their gmail id. 
+**Tools** &#124; **Technologies:** HTML, CSS, ReactJS, MongoDB,Firebase.
+* **[Hot-onion Resturant](https://github.com/jerinira/hot-onion-resturant):** Resturant website to order food online. 
+**Tools** &#124; **Technologies:** HTML, CSS, ReactJS, MongoDB,Firebase.
 
 <br />
   
 ---
 ## SKILLS  
 ---
-* **Languages:** Java, C++, Ruby, SQL
-* **Tools** &#124; **Technologies:** Selenium WebDriver, Gradle, TestNG, Jekyll, Git, JIRA
+* **Languages:** Java Script, C++, SQL
+* **Tools** &#124; **Technologies:** React JS, NodeJS, Bootstarp,MySql.
+* **Familiar with:** CSS Pre-processor(LESS, SCSS), MongoDB, Firebase.
